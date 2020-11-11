@@ -18,7 +18,6 @@ public class ShoppingCartApplication
      */
     public static void main(String[] args)
     {
-        // now run the real application!
         SpringApplication.run(ShoppingCartApplication.class,
             args);
     }
